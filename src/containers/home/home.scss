@@ -1,0 +1,8 @@
+@import '../../scss/_vars.scss';
+@import '../../scss/_mixins.scss';
+
+.home_image_content {
+    @include flex(flex,center,row);
+    flex-wrap: wrap;
+    margin: 1em;
+}

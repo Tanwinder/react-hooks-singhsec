@@ -1,0 +1,10 @@
+
+@import '../../scss/_vars.scss';
+@import '../../scss/_mixins.scss';
+.residential {
+    background-image: url('../../assetfiles/images/residential.jpg');
+    background-color: white;
+    padding-top: 20em;
+    background-size: 100% 20%;
+    background-repeat: no-repeat;
+}
